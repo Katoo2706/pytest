@@ -1,0 +1,1 @@
+from .test_another_func import function_b, function_c
